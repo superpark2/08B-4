@@ -30,11 +30,9 @@ footer {width:100%; height:100px; display: flex ;}
 
 
 
-    .slide > :nth-child(1) {background-image: url("Slide/등교길.jpg"); background-size: 1200px 300px}
-    .slide > :nth-child(2) {background-image: url("Slide/학교전경.jpg"); background-size: 1200px 300px}
-    .slide > :nth-child(3) {background-image: url("Slide/학교전경2.jpg"); background-size: 1200px 300px}
-
-    
+    .slide > :nth-child(1) {background-image: url("../Slide/등교길.jpg"); background-size: 1200px 300px}
+    .slide > :nth-child(2) {background-image: url("../Slide/학교전경.jpg"); background-size: 1200px 300px}
+    .slide > :nth-child(3) {background-image: url("../Slide/학교전경2.jpg"); background-size: 1200px 300px}    
 
   .ngbox {width:1200px; height:200px; display: flex;}
     .notice {width:400px; height: 200px; display: flexbox; margin: 0; padding: 0;}
